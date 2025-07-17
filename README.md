@@ -1,0 +1,2 @@
+# aicte-DD
+deforestation detection
